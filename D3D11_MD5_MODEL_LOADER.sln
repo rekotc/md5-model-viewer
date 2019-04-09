@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "D3D11_MD5_MODEL_LOADER", "D3D11_MD5_MODEL_LOADER\D3D11_MD5_MODEL_LOADER.vcxproj", "{78AE1829-1A4F-4F27-941D-4BCAB23E5A5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78AE1829-1A4F-4F27-941D-4BCAB23E5A5D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{78AE1829-1A4F-4F27-941D-4BCAB23E5A5D}.Debug|Win32.Build.0 = Debug|Win32
+		{78AE1829-1A4F-4F27-941D-4BCAB23E5A5D}.Debug|x64.ActiveCfg = Debug|x64
+		{78AE1829-1A4F-4F27-941D-4BCAB23E5A5D}.Debug|x64.Build.0 = Debug|x64
+		{78AE1829-1A4F-4F27-941D-4BCAB23E5A5D}.Release|Win32.ActiveCfg = Release|Win32
+		{78AE1829-1A4F-4F27-941D-4BCAB23E5A5D}.Release|Win32.Build.0 = Release|Win32
+		{78AE1829-1A4F-4F27-941D-4BCAB23E5A5D}.Release|x64.ActiveCfg = Release|x64
+		{78AE1829-1A4F-4F27-941D-4BCAB23E5A5D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0974A246-EE11-482D-B925-597DC398DB95}
+	EndGlobalSection
+EndGlobal
